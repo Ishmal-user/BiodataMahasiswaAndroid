@@ -54,13 +54,13 @@ fun BiodataMahasiswa() {
         )
 
         Text(
-            text = "Nama Lengkap : Ishmal Kaur",
+            text = "Nama Lengkap : Syafira naura hafilah",
             fontSize = 20.sp,
             modifier = Modifier.padding(bottom = 12.dp)
         )
 
         Text(
-            text = "NIM : 03081240054",
+            text = "NIM : 03081240058",
             fontSize = 20.sp,
             modifier = Modifier.padding(bottom = 12.dp)
         )
@@ -78,7 +78,7 @@ fun BiodataMahasiswa() {
         )
 
         Text(
-            text = "Konsentrasi : IOT",
+            text = "Konsentrasi : AI",
             fontSize = 20.sp
         )
     }
